@@ -13,7 +13,7 @@
 
 6.系统版本：Ventura 13.3.1 (22E261)
 
-[声卡](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#checking-if-you-have-the-right-kexts)
+### [声卡](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#checking-if-you-have-the-right-kexts)
 
 #  
 BIOS设置：
